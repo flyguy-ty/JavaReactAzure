@@ -1,6 +1,6 @@
 package arraylists;
 import java.util.Arrays;
-
+//Testarino
 public class ArrayList{
 
 // Initialize array
